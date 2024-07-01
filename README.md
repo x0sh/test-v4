@@ -1,2 +1,2 @@
-<h1> This Project For Learn 8 Languch And 6 Codeing-Scrpting '-' </h1>
-<h3> Started Fucking Learn go!!!! </h3>
+<h1> This Project for learn 8 Laguage And 6 Coding-Scripting '-' </h1>
+<h3> Starting Learn !!! </h3>
